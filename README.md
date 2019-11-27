@@ -1,2 +1,2 @@
 # EMQ
-use M2Mqtt to connect emqtt broker
+use M2Mqtt library to connect emqtt broker
